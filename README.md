@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Katchuii 
-- 👀 I’m interested in ... mindful code, sustainability, yoga, dance, community , new leadership and yummy foods
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ... React <3 , Typescript, SCSS, .Net, Docker and Databases
-- 💞️ I’m looking to collaborate on ... small to medium sized web dev projects suitable for Junior Level, PRs
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Katchuii@yahoo.com
 
 <!---
